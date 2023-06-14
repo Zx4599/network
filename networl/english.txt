@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<header>
+
+  <link rel="stylesheet" href="main_en.css" />
+  <section class="welcome-section">
+    <title>ENCS3320-Simple Webserver</title>
+    <h1 id="title"><br>Welcome to our course<br>
+      <span id="course-id">Computer Networks</span>
+      <br>
+      <br>
+    </h1>
+  </section>
+</header>
+
+<body>
+
+  <div class="row">
+    <div class="card">
+      <img src="khalid.jpg" style="width:100%">
+      <div class="container">
+        <h4><b>khalid sami - 1193137</b></h4>
+        <p>Hi, I'm khalid, a fourth-year computer engineering student, who's interested in software field,
+          I have skills in coding, I work on a lot of projects through my studying like OOP projects 
+          , data structure, database, Linux, OS, Network, and a lot of other projects of which I'm proud of,
+         </p>
+          <p>
+            I like learning new skills and watching tennis in my free time 
+
+          </p>
+      </div>
+    </div>
+    <span>
+
+    </span>
+    <div class="card">
+      <img src="musab.jpg" style="width:100%">
+      <div class="container">
+        <h4><b>musab - 1200078</b></h4>
+        <p>As a computer engineer, lots of projects were created, for instance, a project was created with data in
+          databases, others using different data structures (linked lists, stacks, trees, and graphs), also, python and
+          shell projects.</p>
+        <p>
+          In my free time, i like to play different kinds of sports, or just chill somewhere!
+        </p>
+      </div>
+    </div>
+    <span>
+
+    </span>
+    <div class="card">
+      <img src="omar.jpg" style="width:100%">
+      <div class="container">
+        <h4><b>omar - 1200060</b></h4>
+        <p>Hello my name is omar I’m studying computer system engineering in my third year and during
+          these three years I have done a lot of projects and exercises like in Linux, data structures, digital and
+          advanced digital.
+        </p>
+        <p>
+          I like playing tennis, soccer, and horse riding
+        </p>
+      </div>
+    </div>
+  </div>
+    
+    <div class="height">
+     
+        <img src="dice.png" style=" height:75px; width: 100px;">
+        <img src="dice.png" style=" height:75px; width: 100px;">
+        <img src="dice.png" style=" height:75px; width: 100px;">
+        <img src="dice.png" style=" height:75px; width: 100px;">
+        
+        <div>
+          <a href="https://www.w3schools.com" style="font-size: 20px;">W3Schools website </a>
+        <div></div>
+        <a href="main_ar.html" style="font-size: 20px;">Arabic version</a>
+        </div>
+      
+       
+     
+    </div>
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
